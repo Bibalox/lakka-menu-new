@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1920px"
-	 height="1080px" viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="192px"
+	 height="192px" viewBox="0 0 192 192" enable-background="new 0 0 192 192" xml:space="preserve">
 <g id="main_menu">
 	
 		<image overflow="visible" width="1920" height="1080" id="example" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAQ4CAYAAADo08FDAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
@@ -1461,159 +1461,159 @@ r0asvT//+5f+iMbojYjBsfw+AAAAAAB8SVQAA3C9pLl8F38/MfxtrL3rev+Q9N60jjPMHQwAAAAA
 AJ+SABgAOm0td78PAAAAAABfAS2gAaDT3m405l4YBwAAAAAAvkoqgAEAAAAAAAB6hAAYAAAAAAAA
 oEcIgAEAAAAAAAB6hAAYAAAAAAAAoEcIgAEAAAAAAAB6hAAYAAAAAAAAoEcIgAEAAAAAAAB6hAAY
 AAAAAAAAoEcIgAEAAAAAAAB6hAAYAAAAAAAAoBc0m00BMAAAAAAAAMDXrtlspv/+PwEGABM4hPen
-72NmAAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 0.0132 -0.0557)">
+72NmAAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 304.0132 -0.0557)">
 	</image>
 	<g id="items">
 		<g id="active_x5F_item">
-			<rect x="384" y="416" opacity="0.5" fill="#C1272D" width="144" height="144"/>
-			<text transform="matrix(1 0 0 1 391 431.5)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">active_item</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.75</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.75</tspan></text>
-			<rect x="557.667" y="472" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="688" y="416" opacity="0.5" fill="#C1272D" width="144" height="144"/>
+			<text transform="matrix(1 0 0 1 695 431.5)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">active_item</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.75</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.75</tspan></text>
+			<rect x="861.667" y="472" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 492.834)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">active_item name</text>
+				<text transform="matrix(1 0 0 1 868.5 492.834)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">active_item name</text>
 			</g>
 		</g>
 		<g id="item">
-			<rect x="422.4" y="566.5" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
-			<text transform="matrix(1 0 0 1 428 581.167)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
-			<rect x="557.667" y="584.1" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="726.4" y="566.5" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
+			<text transform="matrix(1 0 0 1 732 581.167)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
+			<rect x="861.667" y="584.1" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 604.9336)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
+				<text transform="matrix(1 0 0 1 868.5 604.9336)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
 			</g>
 		</g>
 		<g id="item_1_">
-			<rect x="422.4" y="117" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
-			<text transform="matrix(1 0 0 1 428 129.667)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.6" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.4" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
-			<rect x="557.667" y="134.601" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="726.4" y="117" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
+			<text transform="matrix(1 0 0 1 732 129.667)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.6" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.4" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
+			<rect x="861.667" y="134.601" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 155.4341)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
+				<text transform="matrix(1 0 0 1 868.5 155.4341)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
 			</g>
 		</g>
 		<g id="item_2_">
-			<rect x="422.4" y="42" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
-			<text transform="matrix(1 0 0 1 428 56.667)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.6" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.4" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
-			<rect x="557.667" y="59.601" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="726.4" y="42" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
+			<text transform="matrix(1 0 0 1 732 56.667)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.6" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.4" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
+			<rect x="861.667" y="59.601" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 80.4341)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
+				<text transform="matrix(1 0 0 1 868.5 80.4341)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
 			</g>
 		</g>
 		<g id="item_3_">
-			<rect x="422.4" y="641.5" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
-			<text transform="matrix(1 0 0 1 428 654.167)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
-			<rect x="557.667" y="659.1" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="726.4" y="641.5" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
+			<text transform="matrix(1 0 0 1 732 654.167)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
+			<rect x="861.667" y="659.1" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 679.9336)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
+				<text transform="matrix(1 0 0 1 868.5 679.9336)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
 			</g>
 		</g>
 		<g id="item_4_">
-			<rect x="422.4" y="716.5" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
-			<text transform="matrix(1 0 0 1 428 728.917)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
-			<rect x="557.667" y="734.101" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="726.4" y="716.5" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
+			<text transform="matrix(1 0 0 1 732 728.917)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
+			<rect x="861.667" y="734.101" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 754.9346)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
+				<text transform="matrix(1 0 0 1 868.5 754.9346)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
 			</g>
 		</g>
 		<g id="item_5_">
-			<rect x="422.4" y="791.5" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
-			<text transform="matrix(1 0 0 1 428 801.917)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
-			<rect x="557.667" y="809.1" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="726.4" y="791.5" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
+			<text transform="matrix(1 0 0 1 732 801.917)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
+			<rect x="861.667" y="809.1" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 829.9336)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
+				<text transform="matrix(1 0 0 1 868.5 829.9336)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
 			</g>
 		</g>
 		<g id="item_6_">
-			<rect x="422.4" y="867.166" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
-			<text transform="matrix(1 0 0 1 428 879.667)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
-			<rect x="557.667" y="884.766" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="726.4" y="867.166" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
+			<text transform="matrix(1 0 0 1 732 879.667)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
+			<rect x="861.667" y="884.766" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 905.5996)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
+				<text transform="matrix(1 0 0 1 868.5 905.5996)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
 			</g>
 		</g>
 		<g id="item_7_">
-			<rect x="422.4" y="942.166" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
-			<text transform="matrix(1 0 0 1 428 954.417)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
-			<rect x="557.667" y="959.767" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="726.4" y="942.166" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
+			<text transform="matrix(1 0 0 1 732 954.417)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
+			<rect x="861.667" y="959.767" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 980.6006)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
+				<text transform="matrix(1 0 0 1 868.5 980.6006)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
 			</g>
 		</g>
 		<g id="item_8_">
-			<rect x="422.4" y="1017.166" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
-			<text transform="matrix(1 0 0 1 428 1027.417)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
-			<rect x="557.667" y="1034.766" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="726.4" y="1017.166" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
+			<text transform="matrix(1 0 0 1 732 1027.417)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">item</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
+			<rect x="861.667" y="1034.766" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 1055.5996)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
+				<text transform="matrix(1 0 0 1 868.5 1055.5996)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">item name</text>
 			</g>
 		</g>
 	</g>
 	<g id="categories">
 		<g id="category_3_">
-			<rect x="708" y="252" opacity="0.5" fill="#C1272D" width="96" height="96"/>
+			<rect x="1012" y="252" opacity="0.5" fill="#C1272D" width="96" height="96"/>
 			<g>
-				<text transform="matrix(1 0 0 1 716 267)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.5</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.5</tspan></text>
+				<text transform="matrix(1 0 0 1 1020 267)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.5</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.5</tspan></text>
 			</g>
 		</g>
 		<g id="category_2_">
-			<rect x="1008" y="252" opacity="0.5" fill="#C1272D" width="96" height="96"/>
+			<rect x="1312" y="252" opacity="0.5" fill="#C1272D" width="96" height="96"/>
 			<g>
-				<text transform="matrix(1 0 0 1 1016 267)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.5</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.5</tspan></text>
+				<text transform="matrix(1 0 0 1 1320 267)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.5</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.5</tspan></text>
 			</g>
 		</g>
 		<g id="category_1_">
-			<rect x="1308" y="252" opacity="0.5" fill="#C1272D" width="96" height="96"/>
+			<rect x="1612" y="252" opacity="0.5" fill="#C1272D" width="96" height="96"/>
 			<g>
-				<text transform="matrix(1 0 0 1 1315 267)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.5</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.5</tspan></text>
+				<text transform="matrix(1 0 0 1 1619 267)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.5</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.5</tspan></text>
 			</g>
 		</g>
 		<g id="category">
-			<rect x="1608" y="252" opacity="0.5" fill="#C1272D" width="96" height="96"/>
+			<rect x="1912" y="252" opacity="0.5" fill="#C1272D" width="96" height="96"/>
 			<g>
-				<text transform="matrix(1 0 0 1 1618 267)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.5</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.5</tspan></text>
+				<text transform="matrix(1 0 0 1 1922 267)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.5</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.5</tspan></text>
 			</g>
 		</g>
 		<g id="active_x5F_category">
-			<rect x="360" y="204" opacity="0.5" fill="#C1272D" width="192" height="192"/>
+			<rect x="664" y="204" opacity="0.5" fill="#C1272D" width="192" height="192"/>
 			<g>
-				<text transform="matrix(1 0 0 1 367.5 229.5)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="24">active_category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="24"> </tspan><tspan x="0" y="57.6" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="24">Zoom: 1</tspan><tspan x="0" y="86.4" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="24">Opacity: 1</tspan></text>
+				<text transform="matrix(1 0 0 1 671.5 229.5)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="24">active_category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="24"> </tspan><tspan x="0" y="57.6" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="24">Zoom: 1</tspan><tspan x="0" y="86.4" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="24">Opacity: 1</tspan></text>
 			</g>
 		</g>
 		<g>
-			<rect x="1908" y="252" opacity="0.5" fill="#C1272D" width="96" height="96"/>
+			<rect x="2212" y="252" opacity="0.5" fill="#C1272D" width="96" height="96"/>
 			<g>
-				<text transform="matrix(1 0 0 1 1918 267)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.5</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.5</tspan></text>
+				<text transform="matrix(1 0 0 1 2222 267)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.5</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.5</tspan></text>
 			</g>
 		</g>
 		<g>
-			<rect x="108" y="252" opacity="0.5" fill="#C1272D" width="96" height="96"/>
+			<rect x="412" y="252" opacity="0.5" fill="#C1272D" width="96" height="96"/>
 			<g>
-				<text transform="matrix(1 0 0 1 116 267)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.5</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.5</tspan></text>
+				<text transform="matrix(1 0 0 1 420 267)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.5</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.5</tspan></text>
 			</g>
 		</g>
 	</g>
 	<g id="head">
 		<g id="active_x5F_category_x5F_name">
-			<rect x="11" y="11" opacity="0.5" fill="#C1272D" width="356.5" height="34"/>
+			<rect x="315" y="11" opacity="0.5" fill="#C1272D" width="356.5" height="34"/>
 			<g>
-				<text transform="matrix(1 0 0 1 15.0005 33.437)" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="21">active_category name</text>
+				<text transform="matrix(1 0 0 1 319.0005 33.437)" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="21">active_category name</text>
 			</g>
 		</g>
 		<g id="date__x2B__time">
-			<rect x="1550" y="11" opacity="0.5" fill="#C1272D" width="359" height="30"/>
+			<rect x="1854" y="11" opacity="0.5" fill="#C1272D" width="359" height="30"/>
 			<g>
-				<text transform="matrix(1 0 0 1 1694.8516 33.437)" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="21">MM/DD/YY HH:MM </text>
+				<text transform="matrix(1 0 0 1 1998.8516 33.437)" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="21">MM/DD/YY HH:MM </text>
 			</g>
 		</g>
 	</g>
 	<g id="guidelines">
-		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="0" y1="300" x2="1920" y2="300"/>
-		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="0" y1="11" x2="1920" y2="11"/>
-		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="456" y1="0" x2="456" y2="1080"/>
-		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="11" y1="0" x2="11" y2="1080"/>
-		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="1909" y1="0" x2="1909" y2="1080"/>
-		<text transform="matrix(1 0 0 1 1704 892.3291)" opacity="0.5"><tspan x="0" y="0" fill="#C1272D" font-family="'Futura-Medium'" font-size="18">main menu</tspan><tspan x="0" y="28.8" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">windows size: 1920x1080px</tspan><tspan x="0" y="43.2" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">wallpaper: bg.png</tspan><tspan x="0" y="72" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">active_category: 192x192px</tspan><tspan x="0" y="86.399" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">category: 96x96px</tspan><tspan x="0" y="100.8" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">active_item: 144x144px</tspan><tspan x="0" y="115.2" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">item: 67x67px</tspan><tspan x="0" y="144" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">default font size: 30pt</tspan></text>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="304" y1="300" x2="2224" y2="300"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="304" y1="11" x2="2224" y2="11"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="760" y1="0" x2="760" y2="1080"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="315" y1="0" x2="315" y2="1080"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="2213" y1="0" x2="2213" y2="1080"/>
+		<text transform="matrix(1 0 0 1 2008 892.3291)" opacity="0.5"><tspan x="0" y="0" fill="#C1272D" font-family="'Futura-Medium'" font-size="18">main menu</tspan><tspan x="0" y="28.8" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">windows size: 1920x1080px</tspan><tspan x="0" y="43.2" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">wallpaper: bg.png</tspan><tspan x="0" y="72" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">active_category: 192x192px</tspan><tspan x="0" y="86.399" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">category: 96x96px</tspan><tspan x="0" y="100.8" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">active_item: 144x144px</tspan><tspan x="0" y="115.2" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">item: 67x67px</tspan><tspan x="0" y="144" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">default font size: 30pt</tspan></text>
 		
-			<line opacity="0.5" fill="none" stroke="#C1272D" stroke-width="1.0084" stroke-miterlimit="10" x1="1909" y1="849" x2="1669" y2="849"/>
+			<line opacity="0.5" fill="none" stroke="#C1272D" stroke-width="1.0084" stroke-miterlimit="10" x1="2213" y1="849" x2="1973" y2="849"/>
 		
-			<line opacity="0.5" fill="none" stroke="#C1272D" stroke-width="1.0084" stroke-miterlimit="10" x1="1669" y1="849" x2="1669" y2="1080"/>
+			<line opacity="0.5" fill="none" stroke="#C1272D" stroke-width="1.0084" stroke-miterlimit="10" x1="1973" y1="849" x2="1973" y2="1080"/>
 	</g>
 </g>
 <g id="subitem_navigation">
@@ -2692,90 +2692,105 @@ AAAAAAAAQEEIwAAAAAAAAAAFIQADAAAAAAAAFIQADAAAAAAAAFAQAjAAAAAAAABAQQjAAAAAAAAA
 AAUhAAMAAAAAAAAUhAAMAAAAAAAAUBACMAAAAAAAAEBBCMAAAAAAAAAABSEAAwAAAAAAABSEAAwA
 AAAAAABQEAIwAAAAAAAAQEEIwAAAAAAAAAAFIQADAAAAAAAAFIQADAAAAAAAAFAQAjAAAAAAAABA
 QQjAAAAAAAAAAAUhAAMAAAAAAAAUhAAMAAAAAAAAUBACMAAAAAAAAEBBlE9/+t//lmEAAAAAAAAA
-uLOd/vS//z/LSd48/el//38ZDgAAAAAAAIA7027zPfX/DwCtkoX7dWsD4AAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 0.1543 1213.2637)">
+uLOd/vS//z/LSd48/el//38ZDgAAAAAAAIA7027zPfX/DwCtkoX7dWsD4AAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 304.1543 1213.2637)">
 	</image>
 	<g id="subitems">
 		<g id="subitem">
-			<rect x="421.9" y="1780.884" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
-			<text transform="matrix(1 0 0 1 427.5 1793.1348)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">subitem</tspan><tspan x="0" y="21.6" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.4" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
-			<rect x="557.667" y="1798.484" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="725.9" y="1780.884" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
+			<text transform="matrix(1 0 0 1 731.5 1793.1348)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">subitem</tspan><tspan x="0" y="21.6" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.4" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
+			<rect x="861.667" y="1798.484" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 1819.3184)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">subitem name</text>
+				<text transform="matrix(1 0 0 1 868.5 1819.3184)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">subitem name</text>
 			</g>
 		</g>
 		<g id="subitem_1_">
-			<rect x="421.9" y="1855.105" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
-			<text transform="matrix(1 0 0 1 427.5 1867.3574)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">subitem</tspan><tspan x="0" y="21.6" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
-			<rect x="557.667" y="1872.706" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="725.9" y="1855.105" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
+			<text transform="matrix(1 0 0 1 731.5 1867.3574)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">subitem</tspan><tspan x="0" y="21.6" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
+			<rect x="861.667" y="1872.706" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 1893.541)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">subitem name</text>
+				<text transform="matrix(1 0 0 1 868.5 1893.541)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">subitem name</text>
 			</g>
 		</g>
 		<g id="subitem_2_">
-			<rect x="421.9" y="1929.328" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
-			<text transform="matrix(1 0 0 1 427.5 1941.5781)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">subitem</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.4" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
-			<rect x="557.667" y="1946.929" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="725.9" y="1929.328" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
+			<text transform="matrix(1 0 0 1 731.5 1941.5781)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">subitem</tspan><tspan x="0" y="21.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.4" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
+			<rect x="861.667" y="1946.929" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 1967.7617)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">subitem name</text>
+				<text transform="matrix(1 0 0 1 868.5 1967.7617)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">subitem name</text>
 			</g>
 		</g>
 		<g id="subitem_3_">
-			<rect x="421.9" y="2003.55" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
-			<text transform="matrix(1 0 0 1 427.5 2015.8008)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">subitem</tspan><tspan x="0" y="21.6" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.4" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
-			<rect x="557.667" y="2021.15" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
+			<rect x="725.9" y="2003.55" opacity="0.5" fill="#C1272D" width="67.2" height="67.2"/>
+			<text transform="matrix(1 0 0 1 731.5 2015.8008)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="9">subitem</tspan><tspan x="0" y="21.6" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Zoom: 0.35</tspan><tspan x="0" y="32.4" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="9">Opacity: 0.35</tspan></text>
+			<rect x="861.667" y="2021.15" opacity="0.5" fill="#C1272D" width="192.667" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 2041.9844)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">subitem name</text>
+				<text transform="matrix(1 0 0 1 868.5 2041.9844)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">subitem name</text>
 			</g>
 		</g>
 		<g id="active_x5F_item_1_">
-			<rect x="557.667" y="1685.233" opacity="0.5" fill="#C1272D" width="220.833" height="32"/>
+			<rect x="861.667" y="1685.233" opacity="0.5" fill="#C1272D" width="220.833" height="32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 564.5 1706.0674)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">active_subitem name</text>
+				<text transform="matrix(1 0 0 1 868.5 1706.0674)" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">active_subitem name</text>
 			</g>
-			<rect x="84" y="1629.233" opacity="0.5" fill="#C1272D" width="144" height="144"/>
-			<text transform="matrix(1 0 0 1 91 1644.7334)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">active_item</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.75</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.75</tspan></text>
+			<rect x="388" y="1629.233" opacity="0.5" fill="#C1272D" width="144" height="144"/>
+			<text transform="matrix(1 0 0 1 395 1644.7334)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">active_item</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.75</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.75</tspan></text>
 		</g>
 		<g id="arrow.png">
-			<rect x="383.5" y="1629.233" opacity="0.5" fill="#C1272D" width="144" height="144"/>
-			<text transform="matrix(1 0 0 1 390.5 1644.7334)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">active_subitem</tspan><tspan x="0" y="14.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.75</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.75</tspan></text>
+			<rect x="687.5" y="1629.233" opacity="0.5" fill="#C1272D" width="144" height="144"/>
+			<text transform="matrix(1 0 0 1 694.5 1644.7334)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">active_subitem</tspan><tspan x="0" y="14.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.75</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.75</tspan></text>
 		</g>
 	</g>
 	<g id="active_x5F_subitem">
-		<rect x="234" y="1629.233" opacity="0.5" fill="#C1272D" width="144" height="144"/>
-		<text transform="matrix(1 0 0 1 241 1644.7334)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">arrow.png</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.75</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.75</tspan></text>
+		<rect x="538" y="1629.233" opacity="0.5" fill="#C1272D" width="144" height="144"/>
+		<text transform="matrix(1 0 0 1 545 1644.7334)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="12">arrow.png</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Zoom: 0.75</tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="12">Opacity: 0.75</tspan></text>
 	</g>
 	<g id="active_x5F_category_2_">
-		<rect x="60" y="1417.233" opacity="0.5" fill="#C1272D" width="192" height="192"/>
+		<rect x="364" y="1417.233" opacity="0.5" fill="#C1272D" width="192" height="192"/>
 		<g>
-			<text transform="matrix(1 0 0 1 67.5 1442.7334)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="24">active_category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="24"> </tspan><tspan x="0" y="57.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="24">Zoom: 1</tspan><tspan x="0" y="86.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="24">Opacity: 1</tspan></text>
+			<text transform="matrix(1 0 0 1 371.5 1442.7334)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="24">active_category</tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Futura-Medium'" font-size="24"> </tspan><tspan x="0" y="57.601" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="24">Zoom: 1</tspan><tspan x="0" y="86.399" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="24">Opacity: 1</tspan></text>
 		</g>
 	</g>
 	<g id="head_1_">
 		<g id="active_x5F_category_x5F_name_1_">
-			<rect x="11" y="1224.233" opacity="0.5" fill="#C1272D" width="356.5" height="34"/>
+			<rect x="315" y="1224.233" opacity="0.5" fill="#C1272D" width="356.5" height="34"/>
 			<g>
-				<text transform="matrix(1 0 0 1 15.0005 1246.6699)" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="21">active_category name</text>
+				<text transform="matrix(1 0 0 1 319.0005 1246.6699)" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="21">active_category name</text>
 			</g>
 		</g>
 		<g id="date__x2B__time_1_">
-			<rect x="1550" y="1224.233" opacity="0.5" fill="#C1272D" width="359" height="30"/>
+			<rect x="1854" y="1224.233" opacity="0.5" fill="#C1272D" width="359" height="30"/>
 			<g>
-				<text transform="matrix(1 0 0 1 1694.8516 1246.6699)" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="21">MM/DD/YY HH:MM </text>
+				<text transform="matrix(1 0 0 1 1998.8516 1246.6699)" fill="#FFFFFF" font-family="'Futura-MediumItalic'" font-size="21">MM/DD/YY HH:MM </text>
 			</g>
 		</g>
 	</g>
 	<g id="guidelines_1_">
-		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="0" y1="1513.233" x2="1920" y2="1513.233"/>
-		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="0" y1="1224.233" x2="1920" y2="1224.233"/>
-		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="156" y1="1213.233" x2="156" y2="2293.233"/>
-		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="455.5" y1="1213.233" x2="455.5" y2="2293.233"/>
-		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="11" y1="1213.233" x2="11" y2="2293.233"/>
-		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="1909" y1="1213.233" x2="1909" y2="2293.233"/>
-		<text transform="matrix(1 0 0 1 1704 2105.5625)" opacity="0.5"><tspan x="0" y="0" fill="#C1272D" font-family="'Futura-Medium'" font-size="18">main menu</tspan><tspan x="0" y="28.8" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">windows size: 1920x1080px</tspan><tspan x="0" y="43.2" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">wallpaper: bg.png</tspan><tspan x="0" y="72" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">active_category: 192x192px</tspan><tspan x="0" y="86.4" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">active_item: 144x144px</tspan><tspan x="0" y="100.8" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">arrow.png: 144x144px</tspan><tspan x="0" y="115.2" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">active_subitem: 144x144px</tspan><tspan x="0" y="129.6" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">subitem: 67x67px</tspan><tspan x="0" y="158.4" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">default font size: 30pt</tspan></text>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="304" y1="1513.233" x2="2224" y2="1513.233"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="304" y1="1224.233" x2="2224" y2="1224.233"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="460" y1="1213.233" x2="460" y2="2293.233"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="759.5" y1="1213.233" x2="759.5" y2="2293.233"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="315" y1="1213.233" x2="315" y2="2293.233"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="2213" y1="1213.233" x2="2213" y2="2293.233"/>
+		<text transform="matrix(1 0 0 1 2008 2105.5625)" opacity="0.5"><tspan x="0" y="0" fill="#C1272D" font-family="'Futura-Medium'" font-size="18">subitems navigation</tspan><tspan x="0" y="28.8" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">windows size: 1920x1080px</tspan><tspan x="0" y="43.2" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">wallpaper: bg.png</tspan><tspan x="0" y="72" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">active_category: 192x192px</tspan><tspan x="0" y="86.4" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">active_item: 144x144px</tspan><tspan x="0" y="100.8" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">arrow.png: 144x144px</tspan><tspan x="0" y="115.2" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">active_subitem: 144x144px</tspan><tspan x="0" y="129.6" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">subitem: 67x67px</tspan><tspan x="0" y="158.4" fill="#C1272D" font-family="'Futura-MediumItalic'" font-size="12">default font size: 30pt</tspan></text>
 		
-			<line opacity="0.5" fill="none" stroke="#C1272D" stroke-width="1.0084" stroke-miterlimit="10" x1="1909" y1="2062.233" x2="1669" y2="2062.233"/>
+			<line opacity="0.5" fill="none" stroke="#C1272D" stroke-width="1.0084" stroke-miterlimit="10" x1="2213" y1="2062.233" x2="1973" y2="2062.233"/>
 		
-			<line opacity="0.5" fill="none" stroke="#C1272D" stroke-width="1.0084" stroke-miterlimit="10" x1="1669" y1="2062.233" x2="1669" y2="2293.233"/>
+			<line opacity="0.5" fill="none" stroke="#C1272D" stroke-width="1.0084" stroke-miterlimit="10" x1="1973" y1="2062.233" x2="1973" y2="2293.233"/>
+	</g>
+</g>
+<g id="icon_grid">
+	<g id="guidelines_2_">
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="11" y1="-0.056" x2="11" y2="192"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="50" y1="-0.056" x2="50" y2="192"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="181" y1="-0.056" x2="181" y2="192"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="142" y1="-0.056" x2="142" y2="192"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="192" y1="11" x2="0" y2="11"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="192" y1="49.944" x2="0" y2="49.944"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="192" y1="142" x2="0" y2="142"/>
+		<line opacity="0.5" fill="none" stroke="#C1272D" stroke-miterlimit="10" x1="192" y1="181" x2="0" y2="181"/>
+		<rect y="49.944" opacity="0.5" fill="#C1272D" width="192" height="92.056"/>
+		<rect x="50" y="-0.056" opacity="0.5" fill="#C1272D" width="92" height="192.056"/>
+		<rect x="11" y="11" opacity="0.5" fill="#C1272D" width="170" height="170"/>
 	</g>
 </g>
 </svg>
