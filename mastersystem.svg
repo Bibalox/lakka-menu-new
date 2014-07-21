@@ -3,45 +3,53 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="192px" height="192px" viewBox="0 0 192 192" enable-background="new 0 0 192 192" xml:space="preserve">
-<g id="layer3" inkscape:label="logo" inkscape:groupmode="layer">
+<g id="layer3_5_" inkscape:label="logo" inkscape:groupmode="layer">
 	
-		<path id="path3897_1_" sodipodi:rx="3.5" sodipodi:type="arc" sodipodi:cy="37.5" sodipodi:cx="44.5" sodipodi:ry="3.5" fill="#F2F2F2" d="
-		M139.872,105.597c0,5.302-4.296,9.597-9.597,9.597c-5.303,0-9.598-4.295-9.598-9.597c0-5.301,4.295-9.597,9.598-9.597
-		C135.576,96,139.872,100.296,139.872,105.597z"/>
+		<path id="path3897_3_" sodipodi:ry="3.5" sodipodi:cx="44.5" sodipodi:cy="37.5" sodipodi:type="arc" sodipodi:rx="3.5" fill="#F2F2F2" d="
+		M139.871,105.598c0,5.302-4.295,9.597-9.596,9.597c-5.303,0-9.598-4.295-9.598-9.597s4.295-9.597,9.598-9.597
+		C135.576,96.001,139.871,100.296,139.871,105.598z"/>
 	
-		<path id="path3899_1_" sodipodi:rx="3.5" sodipodi:type="arc" sodipodi:cy="37.5" sodipodi:cx="54.5" sodipodi:ry="3.5" fill="#F2F2F2" d="
-		M167.291,105.597c0,5.302-4.295,9.597-9.597,9.597s-9.597-4.295-9.597-9.597c0-5.301,4.295-9.597,9.597-9.597
-		S167.291,100.296,167.291,105.597z"/>
-	<path fill="#F2F2F2" d="M178.259,60.354H13.742c-1.514,0-2.742,1.229-2.742,2.742v65.807c0,1.516,1.229,2.742,2.742,2.742h164.517
-		c1.516,0,2.741-1.227,2.741-2.742V63.097C181,61.583,179.774,60.354,178.259,60.354z M79.549,104.226
-		c0,9.086-7.367,16.452-16.451,16.452H49.387c-9.084,0-16.451-7.366-16.451-16.452V90.517c0-9.086,7.367-16.451,16.451-16.451
-		h13.711c9.084,0,16.451,7.365,16.451,16.451V104.226z M142.613,117.935h-24.678V93.259h24.678V117.935z M142.613,91.259h-24.678
-		v-2.742h24.678V91.259z M170.033,117.935h-24.678V93.259h24.678V117.935z M170.033,91.259h-24.678v-2.742h24.678V91.259z"/>
-	<g id="g3935" transform="translate(0,-2)">
-		<rect id="rect3925" x="54.871" y="81.548" fill="#F2F2F2" width="2.742" height="8.227"/>
-		<rect id="rect3927" x="65.839" y="98" fill="#F2F2F2" width="8.226" height="2.742"/>
-		<rect id="rect3929" x="54.871" y="108.968" fill="#F2F2F2" width="2.742" height="8.226"/>
-		<rect id="rect3931" x="38.42" y="98" fill="#F2F2F2" width="8.226" height="2.742"/>
+		<path id="path3899_3_" sodipodi:ry="3.5" sodipodi:cx="54.5" sodipodi:cy="37.5" sodipodi:type="arc" sodipodi:rx="3.5" fill="#F2F2F2" d="
+		M167.291,105.598c0,5.302-4.295,9.597-9.598,9.597c-5.301,0-9.596-4.295-9.596-9.597s4.295-9.597,9.596-9.597
+		C162.996,96.001,167.291,100.296,167.291,105.598z"/>
+	<g id="g3935_3_" transform="translate(0,-2)">
+		<rect id="rect3925_3_" x="54.871" y="81.548" fill="#F2F2F2" width="2.742" height="8.227"/>
+		<rect id="rect3927_3_" x="65.838" y="98.001" fill="#F2F2F2" width="8.226" height="2.742"/>
+		<rect id="rect3929_3_" x="54.871" y="108.968" fill="#F2F2F2" width="2.742" height="8.227"/>
+		<rect id="rect3931_3_" x="38.419" y="98.001" fill="#F2F2F2" width="8.226" height="2.742"/>
 		
-			<path id="path3933" sodipodi:rx="2.5" sodipodi:type="arc" sodipodi:cy="34.5" sodipodi:cx="17.5" sodipodi:ry="2.5" fill="#F2F2F2" d="
-			M63.098,99.371c0,3.786-3.068,6.854-6.855,6.854c-3.786,0-6.855-3.068-6.855-6.854s3.069-6.854,6.855-6.854
-			C60.029,92.517,63.098,95.585,63.098,99.371z"/>
+			<path id="path3933_3_" sodipodi:ry="2.5" sodipodi:cx="17.5" sodipodi:cy="34.5" sodipodi:type="arc" sodipodi:rx="2.5" fill="#F2F2F2" d="
+			M63.097,99.372c0,3.785-3.069,6.854-6.855,6.854c-3.787,0-6.855-3.068-6.855-6.854c0-3.787,3.069-6.855,6.855-6.855
+			C60.028,92.517,63.097,95.585,63.097,99.372z"/>
 	</g>
-	<g id="layer1_3_" transform="translate(0,-860.36218)" inkscape:label="Calque 1" inkscape:groupmode="layer">
-		<path id="path2999_1_" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="#F2F2F2" d="M66.846,951.878
+	<g id="layer1_10_" transform="translate(0,-860.36218)" inkscape:label="Calque 1" inkscape:groupmode="layer">
+		<path id="path2999_8_" sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" fill="#F2F2F2" d="M66.846,951.878
 			l1.188-5.938l-5.938,1.188L66.846,951.878z"/>
 	</g>
-	<g id="layer1_4_" transform="translate(0,-860.36218)" inkscape:label="Calque 1" inkscape:groupmode="layer">
-		<path id="path2999_2_" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="#F2F2F2" d="M62.87,969.111l5.938,1.188
+	<g id="layer1_9_" transform="translate(0,-860.36218)" inkscape:label="Calque 1" inkscape:groupmode="layer">
+		<path id="path2999_7_" sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" fill="#F2F2F2" d="M62.87,969.111l5.938,1.188
 			l-1.188-5.938L62.87,969.111z"/>
 	</g>
-	<g id="layer1_6_" transform="translate(0,-860.36218)" inkscape:label="Calque 1" inkscape:groupmode="layer">
-		<path id="path2999_4_" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="#F2F2F2" d="M45.251,964.361
-			l-1.188,5.938l5.938-1.188L45.251,964.361z"/>
+	<g id="layer1_8_" transform="translate(0,-860.36218)" inkscape:label="Calque 1" inkscape:groupmode="layer">
+		<path id="path2999_6_" sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" fill="#F2F2F2" d="M45.25,964.361
+			l-1.188,5.938L50,969.111L45.25,964.361z"/>
 	</g>
-	<g id="layer1_5_" transform="translate(0,-860.36218)" inkscape:label="Calque 1" inkscape:groupmode="layer">
-		<path id="path2999_3_" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="#F2F2F2" d="M49.227,947.128
+	<g id="layer1_7_" transform="translate(0,-860.36218)" inkscape:label="Calque 1" inkscape:groupmode="layer">
+		<path id="path2999_5_" sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" fill="#F2F2F2" d="M49.227,947.128
 			l-5.938-1.188l1.188,5.938L49.227,947.128z"/>
+	</g>
+	<g>
+		<path fill="#F2F2F2" d="M181,128.903v-2.881l-90.25-0.001c-0.681,0-1.235,0.554-1.235,1.235v4.389h88.743
+			C179.773,131.646,181,130.419,181,128.903z"/>
+		<path fill="#F2F2F2" d="M13.742,60.354c-1.514,0-2.742,1.229-2.742,2.742v65.807c0,1.516,1.228,2.742,2.742,2.742h7.137V60.354
+			H13.742z"/>
+		<path fill="#F2F2F2" d="M90.75,80.733H181V63.097c0-1.514-1.227-2.742-2.742-2.742H89.515v19.145
+			C89.515,80.18,90.069,80.733,90.75,80.733z"/>
+		<path fill="#F2F2F2" d="M86.515,127.257c0-2.336,1.9-4.235,4.235-4.235H181V83.733H90.75c-2.335,0-4.235-1.899-4.235-4.234V60.354
+			H23.879v71.291h62.636V127.257z M145.355,88.517h24.678v2.742h-24.678V88.517z M145.355,93.259h24.678v24.677h-24.678V93.259z
+			 M117.936,88.517h24.678v2.742h-24.678V88.517z M117.936,93.259h24.678v24.677h-24.678V93.259z M63.097,120.679h-13.71
+			c-9.084,0-16.452-7.367-16.452-16.453V90.517c0-9.086,7.367-16.451,16.452-16.451h13.71c9.084,0,16.452,7.365,16.452,16.451
+			v13.709C79.549,113.312,72.182,120.679,63.097,120.679z"/>
 	</g>
 </g>
 </svg>
