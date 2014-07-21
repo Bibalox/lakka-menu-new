@@ -136,6 +136,16 @@ function love.load()
 			},
 		},
 		{
+			name = "SEGA Game Gear",
+			prefix = "gamegear",
+			items = {
+				{ name = "Sonic the Hedgehog" },
+				{ name = "Sonic 2" },
+				{ name = "The Lion King" },
+				{ name = "Columns" },
+			},
+		},
+		{
 			name = "GameBoy",
 			prefix = "gb",
 			items = {
