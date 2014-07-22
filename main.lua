@@ -241,6 +241,15 @@ function love.load()
 				{ name = "Doukoutsu" },
 			},
 		},
+		{
+			name = "Arcade",
+			prefix = "arcade",
+			items = {
+				{ name = "Shinobi" },
+				{ name = "Golden Axe" },
+				{ name = "Double Dragon" },
+			},
+		},
 				{
 			name = "NintendoDS",
 			prefix = "nds",
