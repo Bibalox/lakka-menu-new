@@ -82,32 +82,6 @@ function love.load()
 			},
 		},
 		{
-			name = "Atari2600",
-			prefix = "a26",
-			items = {
-				{ name = "Pac-Man" },
-				{ name = "Pengo" },
-			},
-		},
-		{
-			name = "DOSBox",
-			prefix = "dosbox",
-			items = {
-				{ name = "JAZZ" },
-				{ name = "Jetpack" },
-			},
-		},
-		{
-			name = "SEGA MasterSystem",
-			prefix = "mastersystem",
-			items = {
-				{ name = "Sonic Chaos" },
-				{ name = "Zool" },
-				{ name = "Wonderboy 3" },
-				{ name = "Alex kid" },
-			},
-		},
-		{
 			name = "Nintendo Entertainment System",
 			prefix = "nes",
 			items = {
@@ -126,36 +100,13 @@ function love.load()
 			},
 		},
 		{
-			name = "SEGA Megadrive",
-			prefix = "megadrive",
+			name = "SEGA MasterSystem",
+			prefix = "mastersystem",
 			items = {
-				{ name = "Sonic 2" },
-				{ name = "Sonic 3" },
-				{ name = "Gunstar Heroes" },
-				{ name = "Piersolar" },
-			},
-		},
-		{
-			name = "SEGA Game Gear",
-			prefix = "gamegear",
-			items = {
-				{ name = "Sonic the Hedgehog" },
-				{ name = "Sonic 2" },
-				{ name = "The Lion King" },
-				{ name = "Columns" },
-			},
-		},
-		{
-			name = "GameBoy",
-			prefix = "gb",
-			items = {
-				{ name = "Tetris" },
-				{ name = "Pokemon Jaune" },
-				{ name = "Pokemon Rouge" },
-				{ name = "Pokemon Bleu" },
-				{ name = "Pokemon Vert" },
-				{ name = "Kirby" },
-				{ name = "Zelda" },
+				{ name = "Sonic Chaos" },
+				{ name = "Zool" },
+				{ name = "Wonderboy 3" },
+				{ name = "Alex kid" },
 			},
 		},
 		{
@@ -175,6 +126,29 @@ function love.load()
 			items = {
 				{ name = "Cutie Honey FX" },
 				{ name = "Tenchi Muyo! Ryo-Ohki FX" },
+			},
+		},
+		{
+			name = "SEGA Megadrive",
+			prefix = "megadrive",
+			items = {
+				{ name = "Sonic 2" },
+				{ name = "Sonic 3" },
+				{ name = "Gunstar Heroes" },
+				{ name = "Piersolar" },
+			},
+		},
+		{
+			name = "NeoGeo",
+			prefix = "neogeo",
+			items = {
+				{ name = "Metal Slug" },
+				{ name = "Metal Slug 2" },
+				{ name = "Metal Slug 3" },
+				{ name = "Metal Slug 4" },
+				{ name = "Metal Slug 5" },
+				{ name = "Metal Slug X" },
+				{ name = "Bomberman" },
 			},
 		},
 		{
@@ -199,11 +173,16 @@ function love.load()
 			},
 		},
 		{
-			name = "NeoGeo Pocket",
-			prefix = "neogeopocket",
+			name = "GameBoy",
+			prefix = "gb",
 			items = {
-				{ name = "Sonic Pocket Adventure" },
-				{ name = "Pocket Tennis" },
+				{ name = "Tetris" },
+				{ name = "Pokemon Jaune" },
+				{ name = "Pokemon Rouge" },
+				{ name = "Pokemon Bleu" },
+				{ name = "Pokemon Vert" },
+				{ name = "Kirby" },
+				{ name = "Zelda" },
 			},
 		},
 		{
@@ -222,16 +201,45 @@ function love.load()
 			},
 		},
 		{
-			name = "NeoGeo",
-			prefix = "neogeo",
+			name = "NintendoDS",
+			prefix = "nds",
 			items = {
-				{ name = "Metal Slug" },
-				{ name = "Metal Slug 2" },
-				{ name = "Metal Slug 3" },
-				{ name = "Metal Slug 4" },
-				{ name = "Metal Slug 5" },
-				{ name = "Metal Slug X" },
-				{ name = "Bomberman" },
+				{ name = "Nintendogs" },
+				{ name = "Yoshi's Touch And Go" },
+			},
+		},
+		{
+			name = "NeoGeo Pocket",
+			prefix = "neogeopocket",
+			items = {
+				{ name = "Sonic Pocket Adventure" },
+				{ name = "Pocket Tennis" },
+			},
+		},
+		{
+			name = "SEGA Game Gear",
+			prefix = "gamegear",
+			items = {
+				{ name = "Sonic the Hedgehog" },
+				{ name = "Sonic 2" },
+				{ name = "The Lion King" },
+				{ name = "Columns" },
+			},
+		},
+		{
+			name = "DOSBox",
+			prefix = "dosbox",
+			items = {
+				{ name = "JAZZ" },
+				{ name = "Jetpack" },
+			},
+		},
+		{
+			name = "Atari2600",
+			prefix = "a26",
+			items = {
+				{ name = "Pac-Man" },
+				{ name = "Pengo" },
 			},
 		},
 		{
@@ -248,14 +256,6 @@ function love.load()
 				{ name = "Shinobi" },
 				{ name = "Golden Axe" },
 				{ name = "Double Dragon" },
-			},
-		},
-				{
-			name = "NintendoDS",
-			prefix = "nds",
-			items = {
-				{ name = "Nintendogs" },
-				{ name = "Yoshi's Touch And Go" },
 			},
 		},
 	}

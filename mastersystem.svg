@@ -1,46 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="192px" height="192px" viewBox="0 0 192 192" enable-background="new 0 0 192 192" xml:space="preserve">
-<g id="layer3_6_" inkscape:label="logo" inkscape:groupmode="layer">
-	<path fill="#F2F2F2" d="M181,128.903v-2.881l-90.25-0.001c-0.681,0-1.234,0.554-1.234,1.235v4.389h88.743
-		C179.774,131.646,181,130.419,181,128.903z"/>
-	<path fill="#F2F2F2" d="M13.742,60.354c-1.515,0-2.742,1.229-2.742,2.742v65.807c0,1.516,1.228,2.742,2.742,2.742h7.137V60.354
-		H13.742z"/>
-	<path fill="#F2F2F2" d="M90.75,80.733H181V63.097c0-1.514-1.226-2.742-2.741-2.742H89.516v19.145
-		C89.516,80.18,90.069,80.733,90.75,80.733z"/>
-	<path fill="#F2F2F2" d="M90.75,83.733c-2.335,0-4.234-1.899-4.234-4.234V60.354H23.879v71.291h62.637v-4.389
-		c0-2.336,1.899-4.235,4.234-4.235H181V83.733H90.75z M79.549,104.226c0,9.086-7.367,16.453-16.451,16.453H49.387
-		c-9.084,0-16.451-7.367-16.451-16.453V90.517c0-9.086,7.367-16.451,16.451-16.451h13.711c9.084,0,16.451,7.365,16.451,16.451
-		V104.226z M130.275,115.194c-5.303,0-9.598-4.295-9.598-9.597s4.295-9.597,9.598-9.597c5.301,0,9.597,4.295,9.597,9.597
-		S135.576,115.194,130.275,115.194z M157.694,115.194c-5.302,0-9.597-4.295-9.597-9.597s4.295-9.597,9.597-9.597
-		s9.597,4.295,9.597,9.597S162.996,115.194,157.694,115.194z"/>
-	<g id="g3935_4_" transform="translate(0,-2)">
-		<rect id="rect3925_4_" x="54.871" y="81.548" fill="#F2F2F2" width="2.742" height="8.227"/>
-		<rect id="rect3927_4_" x="65.839" y="98.001" fill="#F2F2F2" width="8.226" height="2.742"/>
-		<rect id="rect3929_4_" x="54.871" y="108.968" fill="#F2F2F2" width="2.742" height="8.227"/>
-		<rect id="rect3931_4_" x="38.42" y="98.001" fill="#F2F2F2" width="8.226" height="2.742"/>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
+<svg version="1.1" baseProfile="tiny" id="Calque_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="192px" height="192px"
+	 viewBox="0 0 192 192" xml:space="preserve">
+<g id="layer3_5_" inkscape:groupmode="layer" inkscape:label="logo">
+	
+		<path id="path3897_3_" sodipodi:ry="3.5" sodipodi:cx="44.5" sodipodi:cy="37.5" sodipodi:type="arc" sodipodi:rx="3.5" fill="#F2F2F2" d="
+		M139.871,105.598c0,5.301-4.295,9.596-9.596,9.596c-5.303,0-9.598-4.295-9.598-9.596c0-5.303,4.295-9.597,9.598-9.597
+		C135.576,96,139.871,100.295,139.871,105.598z"/>
+	
+		<path id="path3899_3_" sodipodi:ry="3.5" sodipodi:cx="54.5" sodipodi:cy="37.5" sodipodi:type="arc" sodipodi:rx="3.5" fill="#F2F2F2" d="
+		M167.291,105.598c0,5.301-4.295,9.596-9.598,9.596c-5.301,0-9.596-4.295-9.596-9.596c0-5.303,4.295-9.597,9.596-9.597
+		C162.996,96,167.291,100.295,167.291,105.598z"/>
+	<g id="g3935_3_" transform="translate(0,-2)">
+		<rect id="rect3925_3_" x="54.871" y="81.548" fill="#F2F2F2" width="2.742" height="8.226"/>
+		<rect id="rect3927_3_" x="65.838" y="98" fill="#F2F2F2" width="8.226" height="2.742"/>
+		<rect id="rect3929_3_" x="54.871" y="108.969" fill="#F2F2F2" width="2.742" height="8.225"/>
+		<rect id="rect3931_3_" x="38.419" y="98" fill="#F2F2F2" width="8.226" height="2.742"/>
 		
-			<path id="path3933_4_" sodipodi:ry="2.5" sodipodi:cx="17.5" sodipodi:cy="34.5" sodipodi:type="arc" sodipodi:rx="2.5" fill="#F2F2F2" d="
-			M63.098,99.372c0,3.785-3.069,6.854-6.855,6.854s-6.855-3.068-6.855-6.854c0-3.787,3.069-6.855,6.855-6.855
-			S63.098,95.585,63.098,99.372z"/>
+			<path id="path3933_3_" sodipodi:ry="2.5" sodipodi:cx="17.5" sodipodi:cy="34.5" sodipodi:type="arc" sodipodi:rx="2.5" fill="#F2F2F2" d="
+			M63.097,99.371c0,3.787-3.069,6.855-6.855,6.855c-3.787,0-6.855-3.068-6.855-6.855c0-3.786,3.069-6.854,6.855-6.854
+			C60.028,92.517,63.097,95.585,63.097,99.371z"/>
 	</g>
-	<g id="layer1_14_" transform="translate(0,-860.36218)" inkscape:label="Calque 1" inkscape:groupmode="layer">
-		<path id="path2999_12_" sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" fill="#F2F2F2" d="M66.846,951.878
+	<g id="layer1_10_" transform="translate(0,-860.36218)" inkscape:groupmode="layer" inkscape:label="Calque 1">
+		<path id="path2999_8_" sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" fill="#F2F2F2" d="M66.846,951.878
 			l1.188-5.938l-5.938,1.188L66.846,951.878z"/>
 	</g>
-	<g id="layer1_13_" transform="translate(0,-860.36218)" inkscape:label="Calque 1" inkscape:groupmode="layer">
-		<path id="path2999_11_" sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" fill="#F2F2F2" d="M62.87,969.111
-			l5.938,1.188l-1.188-5.938L62.87,969.111z"/>
+	<g id="layer1_9_" transform="translate(0,-860.36218)" inkscape:groupmode="layer" inkscape:label="Calque 1">
+		<path id="path2999_7_" sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" fill="#F2F2F2" d="M62.87,969.112l5.938,1.188
+			l-1.188-5.938L62.87,969.112z"/>
 	</g>
-	<g id="layer1_12_" transform="translate(0,-860.36218)" inkscape:label="Calque 1" inkscape:groupmode="layer">
-		<path id="path2999_10_" sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" fill="#F2F2F2" d="M45.251,964.361
-			l-1.188,5.938l5.938-1.188L45.251,964.361z"/>
+	<g id="layer1_8_" transform="translate(0,-860.36218)" inkscape:groupmode="layer" inkscape:label="Calque 1">
+		<path id="path2999_6_" sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" fill="#F2F2F2" d="M45.25,964.362
+			l-1.188,5.938L50,969.112L45.25,964.362z"/>
 	</g>
-	<g id="layer1_11_" transform="translate(0,-860.36218)" inkscape:label="Calque 1" inkscape:groupmode="layer">
-		<path id="path2999_9_" sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" fill="#F2F2F2" d="M49.227,947.128
+	<g id="layer1_7_" transform="translate(0,-860.36218)" inkscape:groupmode="layer" inkscape:label="Calque 1">
+		<path id="path2999_5_" sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" fill="#F2F2F2" d="M49.227,947.128
 			l-5.938-1.188l1.188,5.938L49.227,947.128z"/>
+	</g>
+	<g>
+		<path fill="#F2F2F2" d="M181,128.904v-2.883H90.75c-0.681,0-1.235,0.555-1.235,1.234v4.389h88.743
+			C179.773,131.645,181,130.42,181,128.904z"/>
+		<path fill="#F2F2F2" d="M13.742,60.355c-1.514,0-2.742,1.228-2.742,2.742v65.807c0,1.516,1.228,2.74,2.742,2.74h7.137v-71.29
+			H13.742z"/>
+		<path fill="#F2F2F2" d="M90.75,80.733H181V63.097c0-1.514-1.227-2.742-2.742-2.742H89.515v19.144
+			C89.515,80.18,90.069,80.733,90.75,80.733z"/>
+		<path fill="#F2F2F2" d="M86.515,127.256c0-2.334,1.9-4.234,4.235-4.234H181V83.733H90.75c-2.335,0-4.235-1.899-4.235-4.234V60.355
+			H23.879v71.29h62.636V127.256z M145.355,88.517h24.678v2.742h-24.678V88.517z M145.355,93.259h24.678v24.677h-24.678V93.259z
+			 M117.936,88.517h24.678v2.742h-24.678V88.517z M117.936,93.259h24.678v24.677h-24.678V93.259z M63.097,120.678h-13.71
+			c-9.084,0-16.452-7.365-16.452-16.451V90.517c0-9.086,7.367-16.452,16.452-16.452h13.71c9.084,0,16.452,7.366,16.452,16.452
+			v13.709C79.549,113.312,72.182,120.678,63.097,120.678z"/>
 	</g>
 </g>
 </svg>
