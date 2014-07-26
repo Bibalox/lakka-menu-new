@@ -91,6 +91,15 @@ function love.load()
 			},
 		},
 		{
+			name = "Vectrex",
+			prefix = "vectrex",
+			items = {
+				{ name = "3D Crazy Coaster" },
+				{ name = "Mine Storm" },
+				{ name = "Pole Position" },
+			},
+		},
+		{
 			name = "PC Engine",
 			prefix = "pce",
 			items = {
@@ -129,6 +138,14 @@ function love.load()
 			},
 		},
 		{
+			name = "Atari Lynx",
+			prefix = "handy",
+			items = {
+				{ name = "California Games" },
+				{ name = "Batman Returns" },
+			},
+		},
+		{
 			name = "SEGA Megadrive",
 			prefix = "megadrive",
 			items = {
@@ -149,6 +166,14 @@ function love.load()
 				{ name = "Metal Slug 5" },
 				{ name = "Metal Slug X" },
 				{ name = "Bomberman" },
+			},
+		},
+		{
+			name = "Nintendo Virtual Boy",
+			prefix = "virtualboy",
+			items = {
+				{ name = "3D Tetris" },
+				{ name = "Virtual Boy Wario Land" },
 			},
 		},
 		{
@@ -201,11 +226,13 @@ function love.load()
 			},
 		},
 		{
-			name = "NintendoDS",
-			prefix = "nds",
+			name = "SEGA Game Gear",
+			prefix = "gamegear",
 			items = {
-				{ name = "Nintendogs" },
-				{ name = "Yoshi's Touch And Go" },
+				{ name = "Sonic the Hedgehog" },
+				{ name = "Sonic 2" },
+				{ name = "The Lion King" },
+				{ name = "Columns" },
 			},
 		},
 		{
@@ -217,21 +244,28 @@ function love.load()
 			},
 		},
 		{
-			name = "SEGA Game Gear",
-			prefix = "gamegear",
+			name = "Wonderswan",
+			prefix = "wonderswan",
 			items = {
-				{ name = "Sonic the Hedgehog" },
-				{ name = "Sonic 2" },
-				{ name = "The Lion King" },
-				{ name = "Columns" },
+				{ name = "Dicing Knight" },
+				{ name = "Namco Super Wars" },
 			},
 		},
 		{
-			name = "DOSBox",
-			prefix = "dosbox",
+			name = "NintendoDS",
+			prefix = "nds",
 			items = {
-				{ name = "JAZZ" },
-				{ name = "Jetpack" },
+				{ name = "Nintendogs" },
+				{ name = "Yoshi's Touch And Go" },
+			},
+		},
+		{
+			name = "Arcade",
+			prefix = "arcade",
+			items = {
+				{ name = "Shinobi" },
+				{ name = "Golden Axe" },
+				{ name = "Double Dragon" },
 			},
 		},
 		{
@@ -243,6 +277,30 @@ function love.load()
 			},
 		},
 		{
+			name = "DOSBox",
+			prefix = "dosbox",
+			items = {
+				{ name = "JAZZ" },
+				{ name = "Jetpack" },
+			},
+		},
+		{
+			name = "FFmpeg",
+			prefix = "ffmpeg",
+			items = {
+				{ name = "FFmpeg" },
+			},
+		},
+		{
+			name = "PrBoom",
+			prefix = "prboom",
+			items = {
+				{ name = "Doom" },
+				{ name = "Doom 2" },
+				{ name = "Ultimate Doom" },
+			},
+		},
+		{
 			name = "Cave Story",
 			prefix = "cavestory",
 			items = {
@@ -250,12 +308,10 @@ function love.load()
 			},
 		},
 		{
-			name = "Arcade",
-			prefix = "arcade",
+			name = "Dinothawr",
+			prefix = "dinothawr",
 			items = {
-				{ name = "Shinobi" },
-				{ name = "Golden Axe" },
-				{ name = "Double Dragon" },
+				{ name = "Dinothawr" },
 			},
 		},
 	}
