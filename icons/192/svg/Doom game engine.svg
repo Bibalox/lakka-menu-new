@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
+<svg version="1.1" baseProfile="tiny" id="Calque_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="192px" height="192px"
+	 viewBox="0 0 192 192" xml:space="preserve">
+<g id="Pr_Boom">
+	<path fill="#F2F2F2" d="M96,21c-62.262,0-75,12.647-75,75s12.535,75,75,75c62.469,0,75-12.621,75-75S158.265,21,96,21z
+		 M145.309,123.919L142,127l-9.871-8.235l-0.302-7.009l-4.373,2.994l-1.077-4.675h-0.721l-2.034,1.859l-8.689-6.528h-0.777
+		l-10.968,8.387l-8.863-7.068l-1.079,0.239l-9.405,7.428l-9.344-7.428h-0.903L50,126l-4-3l1-3V68l-2-3h20l5.479,5.127l0.657-0.024
+		v-1.541L75,65h13l4.766,3.562l1.855-0.062L98,65h15l2.197,2.488L118,65h11l0.984,3.536l0.766,0.025L134,65h13l-2,2v54
+		L145.309,123.919z"/>
+	<path fill="#F2F2F2" d="M76,67l-3,3v31l9,8l9-8V70l-3-3H76z M85.637,100.979l-7.125-4.691V72.995h7.125V100.979z"/>
+	<path fill="#F2F2F2" d="M49,67v52l18-15V70l-3-3H49z M61.101,96.329l-6.944,5.603V72.902h6.944V96.329z"/>
+	<path fill="#F2F2F2" d="M99,67l-3,2.11V101l9,7l10-8V70l-3-3H99z M109.119,96.398l-7.005,4.438V72.902h7.005V96.398z"/>
+	<polygon fill="#F2F2F2" points="131,80 128,67 120,67 120,102 125,106 125,78 131.957,105.979 138,86 138,115 138.072,115.429 
+		137.724,115.828 137.526,116.056 143,121 143,67 135,67 	"/>
+</g>
+</svg>
