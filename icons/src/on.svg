@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<path id="on" fill="#F2F2F2" d="M43,23H21c-4.971,0-9,4.029-9,9s4.029,9,9,9h22c4.971,0,9-4.029,9-9S47.971,23,43,23z M43,39
+	c-0.424,0-0.836-0.044-1.238-0.115V39H22.238v-0.115C21.836,38.956,21.424,39,21,39c-3.867,0-7-3.133-7-7s3.133-7,7-7
+	c0.424,0,0.836,0.044,1.238,0.115V25h19.523v0.115C42.164,25.044,42.576,25,43,25c3.867,0,7,3.133,7,7S46.867,39,43,39z M24,28h-4v1
+	h-1v6h1l0.004,1H24v-1h1v-6h-1V28z M24,34h-1v1h-2v-1h-1v-4h1v-1h2v1h1V34z M32,34l-4-6h-1v8h1v-6l4,6h1v-8h-1V34z M43,27
+	c-2.762,0-5,2.238-5,5s2.238,5,5,5s5-2.238,5-5S45.762,27,43,27z"/>
+</svg>
